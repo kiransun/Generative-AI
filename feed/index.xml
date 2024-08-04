@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>User&#039;s blog</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>http://3.25.240.129/</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Aug 2024 08:49:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">235680514</site>	<item>
+		<title>Blog 4</title>
+		<link>/blog-4/</link>
+					<comments>/blog-4/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 02 Aug 2024 08:49:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://13.210.148.94/blog-4/</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
+<p>The post <a href="/blog-4/">Blog 4</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
+<p>The post <a href="/blog-4/">Blog 4</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1302</post-id>	</item>
+		<item>
+		<title>Blog 3</title>
+		<link>/blog-3/</link>
+					<comments>/blog-3/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 02 Aug 2024 08:49:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://13.210.148.94/blog-3/</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
+<p>The post <a href="/blog-3/">Blog 3</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
+<p>The post <a href="/blog-3/">Blog 3</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1301</post-id>	</item>
+		<item>
+		<title>Blog 2</title>
+		<link>/blog-2/</link>
+					<comments>/blog-2/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 02 Aug 2024 08:49:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://13.210.148.94/blog-2/</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
+<p>The post <a href="/blog-2/">Blog 2</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
+<p>The post <a href="/blog-2/">Blog 2</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1300</post-id>	</item>
+		<item>
+		<title>Blog 1</title>
+		<link>/blog-1/</link>
+					<comments>/blog-1/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 02 Aug 2024 08:49:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://13.210.148.94/blog-1/</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
+<p>The post <a href="/blog-1/">Blog 1</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
+<p>The post <a href="/blog-1/">Blog 1</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1299</post-id>	</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 02 Aug 2024 06:52:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a href="/hello-world/">Hello world!</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a href="/hello-world/">Hello world!</a> appeared first on <a href="/">User&#039;s blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>
