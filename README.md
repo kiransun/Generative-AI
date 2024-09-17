@@ -28,4 +28,4 @@
 
 #test4: This is the programming language for AI tool to detect cybersecurity vulnerabilities of website.
 
-#vulnerabilities report: This is the report gereneated when detecting cybersecuroty vulnerabilities of website.
+#vulnerability report: This is the report gereneated when detecting cybersecurity vulnerabilities of website.
