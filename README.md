@@ -22,7 +22,7 @@
 
 #Weekly Report: This is the report that includes detail report ragarding team meeting about the project progress discussion along with tutor from week 1 to week 8.
 
-#anomaly detection model: This is the report generated when scanning vulnerabilities of wensite using AI tool.
+#anomaly detection model: This is the report generated when scanning vulnerabilities of website using AI tool.
 
 #progress report 2: This is the report that includes my individual contribution to prepare progress report 2.
 
